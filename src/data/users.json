@@ -1,0 +1,41 @@
+[
+  {
+    "id": "u1",
+    "name": "Alex Johnson",
+    "email": "alex@example.com",
+    "role": "student",
+    "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Alex",
+    "bio": "Aspiring full-stack developer. Passionate about building great products.",
+    "enrolledCourses": ["c1", "c3"],
+    "completedLessons": ["l1", "l2", "l3", "l11", "l12"],
+    "wishlist": ["c4", "c5"],
+    "joinedAt": "2024-01-15"
+  },
+  {
+    "id": "u2",
+    "name": "Maria Garcia",
+    "email": "maria@example.com",
+    "role": "student",
+    "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Maria",
+    "bio": "UX designer transitioning into development. Love building beautiful interfaces.",
+    "enrolledCourses": ["c4", "c1"],
+    "completedLessons": ["l16", "l17", "l1"],
+    "wishlist": ["c7"],
+    "joinedAt": "2024-03-22"
+  },
+  {
+    "id": "u3",
+    "name": "Sarah Mitchell",
+    "email": "sarah@example.com",
+    "role": "instructor",
+    "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Sarah",
+    "bio": "Senior Software Engineer with 10+ years of experience. Teaching is my passion.",
+    "enrolledCourses": [],
+    "completedLessons": [],
+    "wishlist": [],
+    "myCourses": ["c1", "c2", "c3", "c4", "c5", "c6", "c7", "c8"],
+    "totalStudents": 279900,
+    "totalRevenue": 24800,
+    "joinedAt": "2023-06-10"
+  }
+]

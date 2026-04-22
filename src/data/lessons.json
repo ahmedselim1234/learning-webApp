@@ -1,0 +1,29 @@
+[
+  { "id": "l1",  "courseId": "c1", "title": "Welcome & Course Overview",          "videoUrl": "https://www.youtube.com/embed/dGcsHMXbSOA", "duration": "5:20",  "order": 1, "isFree": true  },
+  { "id": "l2",  "courseId": "c1", "title": "Setting Up the Development Environment","videoUrl": "https://www.youtube.com/embed/dGcsHMXbSOA", "duration": "12:45", "order": 2, "isFree": true  },
+  { "id": "l3",  "courseId": "c1", "title": "React Fundamentals & JSX",            "videoUrl": "https://www.youtube.com/embed/dGcsHMXbSOA", "duration": "28:10", "order": 3, "isFree": false },
+  { "id": "l4",  "courseId": "c1", "title": "useState & useEffect Deep Dive",      "videoUrl": "https://www.youtube.com/embed/dGcsHMXbSOA", "duration": "35:30", "order": 4, "isFree": false },
+  { "id": "l5",  "courseId": "c1", "title": "React Router v6",                     "videoUrl": "https://www.youtube.com/embed/dGcsHMXbSOA", "duration": "22:15", "order": 5, "isFree": false },
+
+  { "id": "l6",  "courseId": "c2", "title": "Node.js Introduction",                "videoUrl": "https://www.youtube.com/embed/Oe421EPjeBE", "duration": "8:00",  "order": 1, "isFree": true  },
+  { "id": "l7",  "courseId": "c2", "title": "Building Your First Server",          "videoUrl": "https://www.youtube.com/embed/Oe421EPjeBE", "duration": "20:30", "order": 2, "isFree": true  },
+  { "id": "l8",  "courseId": "c2", "title": "Express.js & Middleware",             "videoUrl": "https://www.youtube.com/embed/Oe421EPjeBE", "duration": "32:00", "order": 3, "isFree": false },
+  { "id": "l9",  "courseId": "c2", "title": "MongoDB & Mongoose",                  "videoUrl": "https://www.youtube.com/embed/Oe421EPjeBE", "duration": "40:15", "order": 4, "isFree": false },
+  { "id": "l10", "courseId": "c2", "title": "REST API Design",                     "videoUrl": "https://www.youtube.com/embed/Oe421EPjeBE", "duration": "28:45", "order": 5, "isFree": false },
+
+  { "id": "l11", "courseId": "c3", "title": "Python Basics",                       "videoUrl": "https://www.youtube.com/embed/Q59X518JZHE", "duration": "15:00", "order": 1, "isFree": true  },
+  { "id": "l12", "courseId": "c3", "title": "NumPy & Pandas Essentials",           "videoUrl": "https://www.youtube.com/embed/Q59X518JZHE", "duration": "45:20", "order": 2, "isFree": true  },
+  { "id": "l13", "courseId": "c3", "title": "Data Visualization with Matplotlib",  "videoUrl": "https://www.youtube.com/embed/Q59X518JZHE", "duration": "38:10", "order": 3, "isFree": false },
+  { "id": "l14", "courseId": "c3", "title": "Machine Learning with Scikit-Learn",  "videoUrl": "https://www.youtube.com/embed/Q59X518JZHE", "duration": "52:30", "order": 4, "isFree": false },
+  { "id": "l15", "courseId": "c3", "title": "Neural Networks & TensorFlow",        "videoUrl": "https://www.youtube.com/embed/Q59X518JZHE", "duration": "60:00", "order": 5, "isFree": false },
+
+  { "id": "l16", "courseId": "c4", "title": "Design Thinking Fundamentals",        "videoUrl": "https://www.youtube.com/embed/FTFaQWZBqQ8", "duration": "18:00", "order": 1, "isFree": true  },
+  { "id": "l17", "courseId": "c4", "title": "Figma Interface & Tools",             "videoUrl": "https://www.youtube.com/embed/FTFaQWZBqQ8", "duration": "25:30", "order": 2, "isFree": true  },
+  { "id": "l18", "courseId": "c4", "title": "Building Components & Variants",      "videoUrl": "https://www.youtube.com/embed/FTFaQWZBqQ8", "duration": "42:15", "order": 3, "isFree": false },
+  { "id": "l19", "courseId": "c4", "title": "Prototyping & Animations",            "videoUrl": "https://www.youtube.com/embed/FTFaQWZBqQ8", "duration": "35:00", "order": 4, "isFree": false },
+
+  { "id": "l20", "courseId": "c5", "title": "AWS Global Infrastructure",           "videoUrl": "https://www.youtube.com/embed/3hLmDS179YE", "duration": "10:00", "order": 1, "isFree": true  },
+  { "id": "l21", "courseId": "c5", "title": "EC2 & Auto Scaling",                  "videoUrl": "https://www.youtube.com/embed/3hLmDS179YE", "duration": "48:20", "order": 2, "isFree": false },
+  { "id": "l22", "courseId": "c5", "title": "S3 & CloudFront",                     "videoUrl": "https://www.youtube.com/embed/3hLmDS179YE", "duration": "36:45", "order": 3, "isFree": false },
+  { "id": "l23", "courseId": "c5", "title": "RDS & DynamoDB",                      "videoUrl": "https://www.youtube.com/embed/3hLmDS179YE", "duration": "44:10", "order": 4, "isFree": false }
+]

@@ -1,0 +1,16 @@
+[
+  { "id": "r1",  "courseId": "c1", "userId": "u1", "userName": "Alex Johnson",  "userAvatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Alex",  "rating": 5, "comment": "Best React course I've ever taken! The explanation of hooks is crystal clear.", "createdAt": "2024-10-05", "helpful": 142 },
+  { "id": "r2",  "courseId": "c1", "userId": "u2", "userName": "Maria Garcia",  "userAvatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Maria", "rating": 4, "comment": "Really comprehensive content. The projects are well-designed and build real skills.", "createdAt": "2024-10-12", "helpful": 89  },
+  { "id": "r3",  "courseId": "c1", "userId": "u4", "userName": "James Lee",     "userAvatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=James", "rating": 5, "comment": "Sarah explains complex concepts so simply. Highly recommend for any skill level.", "createdAt": "2024-11-01", "helpful": 76  },
+
+  { "id": "r4",  "courseId": "c2", "userId": "u4", "userName": "James Lee",     "userAvatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=James", "rating": 5, "comment": "Perfect course for Node.js beginners. Loved the REST API section.", "createdAt": "2024-09-18", "helpful": 55  },
+  { "id": "r5",  "courseId": "c2", "userId": "u1", "userName": "Alex Johnson",  "userAvatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Alex",  "rating": 4, "comment": "Great content, though I wish there was more on testing with Jest.", "createdAt": "2024-10-02", "helpful": 31  },
+
+  { "id": "r6",  "courseId": "c3", "userId": "u2", "userName": "Maria Garcia",  "userAvatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Maria", "rating": 5, "comment": "This bootcamp changed my career. The ML section is outstanding!", "createdAt": "2024-11-08", "helpful": 210 },
+  { "id": "r7",  "courseId": "c3", "userId": "u5", "userName": "Priya Patel",   "userAvatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Priya", "rating": 5, "comment": "The TensorFlow section is a game changer. Real-world projects included.", "createdAt": "2024-10-25", "helpful": 198 },
+
+  { "id": "r8",  "courseId": "c4", "userId": "u1", "userName": "Alex Johnson",  "userAvatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Alex",  "rating": 4, "comment": "Great intro to Figma and design thinking. Would love more advanced content.", "createdAt": "2024-08-30", "helpful": 44  },
+
+  { "id": "r9",  "courseId": "c5", "userId": "u5", "userName": "Priya Patel",   "userAvatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Priya", "rating": 5, "comment": "Passed my SAA-C03 on first attempt! This course is gold.", "createdAt": "2024-10-14", "helpful": 321 },
+  { "id": "r10", "courseId": "c5", "userId": "u4", "userName": "James Lee",     "userAvatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=James", "rating": 4, "comment": "Very thorough AWS coverage. Practice exams are especially helpful.", "createdAt": "2024-10-28", "helpful": 167 }
+]
