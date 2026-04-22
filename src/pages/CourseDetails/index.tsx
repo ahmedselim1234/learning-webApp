@@ -39,7 +39,7 @@ function StarRow({ rating, size = 'md' }: { rating: number; size?: 'sm' | 'md' |
   )
 }
 
-function RatingBar({ stars, total }: { stars: number; total: number }) {
+function RatingBar(_: { stars: number; total: number }) {
   return (
     <div className="space-y-1.5">
       {[5, 4, 3, 2, 1].map(s => {
