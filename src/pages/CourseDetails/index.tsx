@@ -40,7 +40,6 @@ function StarRow({ rating, size = 'md' }: { rating: number; size?: 'sm' | 'md' |
 }
 
 function RatingBar({ stars, total }: { stars: number; total: number }) {
-  const counts = [5, 4, 3, 2, 1].map(s => ({ s, count: total > 0 ? Math.round((stars === s ? total * 0.6 : total * 0.1) / 5) : 0 }))
   return (
     <div className="space-y-1.5">
       {[5, 4, 3, 2, 1].map(s => {
